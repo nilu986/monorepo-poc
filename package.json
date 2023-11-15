@@ -1,6 +1,5 @@
 {
-  "name": "root",
-  "private": true,
+  "name": "monorepo-calc",
   "workspaces": [
     "packages/*"
   ],
